@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Asef
+I’m interested in web development in PHP, Laravel, VueJs, Tailwind CSS ...
+
 #### There is some of my recent projects:
-- 👀 I’m interested in web development in PHP, Laravel, VueJs, Tailwind CSS ...
 - 📫 [TV Alert](https://github.com/asefsoft/tv-alert) an open source project with TALL stack to notify users about their favorite TV series.
 - 📫 www.vidbid.ir which is an automated video gathering and procesing site and another projects.
 on vidbid there is a tool to [convert YouTube videos](https://www.vidbid.ir/youtube) 
